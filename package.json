@@ -1,0 +1,24 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kemononya/hexlet-js.git"
+  },
+  "keywords": [
+    "test",
+    "hexlet"
+  ],
+  "author": "Чайковский Прохор",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kemononya/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Kemononya/hexlet-js#readme"
+}
